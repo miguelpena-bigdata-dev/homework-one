@@ -1,0 +1,5 @@
+print("{")
+print("\"donut_name\":\"Vanilla Donut\",")
+print("\"quantity_purchased\":\"10\",")
+print("\"price\":2.5")
+print("}")
